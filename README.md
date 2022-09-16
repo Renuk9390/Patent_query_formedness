@@ -1,4 +1,4 @@
-#### Code and data are to be added soon, before the publication of this work in BTW-2023 conference. 
+#### *** Code and data are to be added soon, before the publication of this work in BTW-2023 conference. 
 
 ## Is Your Search Query Well Formed? A Natural Query Understanding for Patent Prior Art Search
 ### Abstract
