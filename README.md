@@ -1,4 +1,9 @@
-# Query_formedness_PQAI
+### Query_formedness_PQAI
+
+This repository contains the abstract, code and data relating to the paper as shown below:
+#"Is Your Search Query Well Formed? A Natural Query Understanding for Patent Prior Art Search"
+
+
 The eternal focus of search engines in finding relevant documents to the query remains the
 same, however, domain-specific nuances play a critical role in obtaining the desired results. Patent
 prior art search is one such domain, where search results depend on the style, expressions, and
